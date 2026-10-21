@@ -8,7 +8,7 @@ A Reveste é um projeto de **moda circular**: recebe roupas por troca e doação
 
 ## 📸 Preview
 
-![Preview do site Reveste](./assets/preview.png)
+   ![Preview do site Reveste](./preview.png)
 
 ---
 
